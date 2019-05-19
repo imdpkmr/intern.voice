@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VoiceRecorderTabbed</string>
+    <string name="tab_1">Tab 1</string>
+    <string name="tab_2">Tab 2</string>
+    <string name="no_recordings_found">No Recordings Found</string>
+    <string name="list">List</string>
+</resources>

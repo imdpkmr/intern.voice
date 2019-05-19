@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar
+    xmlns:android1="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android1:id="@+id/toolbar"
+    android1:layout_width="match_parent"
+    android1:layout_height="?attr/actionBarSize"
+    android1:background="@color/colorPrimary"
+    android1:gravity="center_vertical"
+    app:layout_collapseMode="pin"
+    app:layout_scrollFlags="scroll|enterAlways"
+    app:theme="@style/MyToolbarTheme"
+    app:title="@string/app_name" />
